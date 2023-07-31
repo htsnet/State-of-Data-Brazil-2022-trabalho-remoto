@@ -4,6 +4,7 @@ State of Data Challenge 2022: https://www.kaggle.com/datasets/datahackers/state-
 ![ilustracao](https://github.com/htsnet/State-of-Data-Brazil-2022-trabalho-remoto/assets/9755885/1048641b-a56c-4e75-9377-5903ba788486)
 
 
+🚩 https://www.kaggle.com/code/hamiltonts/trabalho-100-remoto-mais-satisfat-rio/notebook
 
 The idea behind creating this study is to verify the relationship between work arrangements (remote, hybrid, or in-person) and satisfaction with the company along with some variables: race/ethnicity, gender, Brazilian state, education level, and salary range.  
 
